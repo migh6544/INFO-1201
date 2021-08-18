@@ -12,7 +12,8 @@ Everyone should have the ability to not only use and interact with computing, bu
 This course is a hands-on introduction to create, invent, and build with computer programming. No programming experience is necessary and all backgrounds are welcome. Students will become exposed to high-level computational concepts and practices that include algorithms, data, parallelism, abstraction, and debugging.
 Assignments and projects will involve learning to program using the Scratch and Python programming languages.
 The creative and problem-solving strategies introduced in this course are applicable across many domains beyond information and computer sciences.
- 
+
+
  
 Course Objectives:
 
