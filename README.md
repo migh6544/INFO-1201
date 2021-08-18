@@ -16,10 +16,14 @@ The creative and problem-solving strategies introduced in this course are applic
  
 Course Objectives:
 
-● Develop and utilize Computational Thinking concepts, practices, and perspectives to create, explore, and understand the world in new ways.
+* Develop and utilize Computational Thinking concepts, practices, and perspectives to create, explore, and understand the world in new ways.
   In this class, you will engage with computational thinking through creative expression with computer programming.
   These concepts, practices, and perspectives are applicable beyond this class into other domains and interests beyond computing.
-● Create and share interactive media projects, such as animations, games, and stories with Scratch and Python
-● Collect, examine, and interpret large datasets with Python
-● Connect the ways that computing interacts with many part of our lives
-● Learn about opportunities that exist to extend and expand on the practices and activities in this class within and beyond
+ 
+* Create and share interactive media projects, such as animations, games, and stories with Scratch and Python
+
+* Collect, examine, and interpret large datasets with Python
+
+* Connect the ways that computing interacts with many part of our lives
+
+* Learn about opportunities that exist to extend and expand on the practices and activities in this class within and beyond
